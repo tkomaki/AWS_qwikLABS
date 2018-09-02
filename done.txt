@@ -1,0 +1,6 @@
+・Introduction to AWS Identity and Access Management (IAM)
+https://amazon.qwiklabs.com/focuses/281?parent=catalog
+
+・Introduction to Amazon Simple Storage Service (S3)
+https://amazon.qwiklabs.com/focuses/278?parent=catalog
+
