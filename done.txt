@@ -6,3 +6,5 @@ https://amazon.qwiklabs.com/focuses/281?parent=catalog
 ・Introduction to Amazon Simple Storage Service (S3)
 https://amazon.qwiklabs.com/focuses/278?parent=catalog
 
+・Introduction to AWS Lambda
+https://amazon.qwiklabs.com/focuses/284?parent=catalog
