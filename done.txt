@@ -1,10 +1,15 @@
-▼受講完了したラボ一覧
+受講完了したラボ一覧
 
-・Introduction to AWS Identity and Access Management (IAM)
+o Introduction to AWS Identity and Access Management (IAM)
 https://amazon.qwiklabs.com/focuses/281?parent=catalog
 
-・Introduction to Amazon Simple Storage Service (S3)
+o Introduction to Amazon Simple Storage Service (S3)
 https://amazon.qwiklabs.com/focuses/278?parent=catalog
 
-・Introduction to AWS Lambda
+o Introduction to AWS Lambda
 https://amazon.qwiklabs.com/focuses/284?parent=catalog
+
+o Introduction to Amazon EC2
+https://amazon.qwiklabs.com/focuses/368?parent=catalog
+
+
