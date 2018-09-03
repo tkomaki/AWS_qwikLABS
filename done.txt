@@ -12,5 +12,8 @@ https://amazon.qwiklabs.com/focuses/284?parent=catalog
 o Introduction to Amazon EC2
 https://amazon.qwiklabs.com/focuses/368?parent=catalog
 
+o Introduction to Amazon Elastic Block Store (EBS)
+https://amazon.qwiklabs.com/focuses/370?parent=catalog
+
 o Working with Amazon Elastic Block Store (EBS)
 https://amazon.qwiklabs.com/focuses/404?parent=catalog
