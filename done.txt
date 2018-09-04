@@ -18,4 +18,5 @@ https://amazon.qwiklabs.com/focuses/370?parent=catalog
 o Working with Amazon Elastic Block Store (EBS)
 https://amazon.qwiklabs.com/focuses/404?parent=catalog
 
-
+o Introduction to Amazon Route 53
+https://amazon.qwiklabs.com/focuses/277?parent=catalog
