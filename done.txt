@@ -21,5 +21,8 @@ https://amazon.qwiklabs.com/focuses/404?parent=catalog
 o Introduction to Amazon Route 53
 https://amazon.qwiklabs.com/focuses/277?parent=catalog
 
-o ntroduction to Amazon CloudFront
+o Introduction to Amazon CloudFront
 https://amazon.qwiklabs.com/focuses/270?parent=catalog
+
+o Introduction to Elastic Load Balancing
+https://amazon.qwiklabs.com/focuses/390?parent=catalog
