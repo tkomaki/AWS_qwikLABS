@@ -26,3 +26,7 @@ https://amazon.qwiklabs.com/focuses/270?parent=catalog
 
 o Introduction to Elastic Load Balancing
 https://amazon.qwiklabs.com/focuses/390?parent=catalog
+
+oIntroduction to Amazon Virtual Private Cloud (VPC)
+https://amazon.qwiklabs.com/focuses/279?parent=catalog
+
